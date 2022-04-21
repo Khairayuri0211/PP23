@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Antica Mountain Select Cabernet Sauvignon",
+    "stock": 10,
+    "price": 47,
+    "CategoryId": 1
+  },
+  {
+    "name": "Hidden Vines Napa Valley Red Blend",
+    "stock": 12,
+    "price": 19,
+    "CategoryId": 1
+  },
+  {
+    "name": "Berryessa Gap Sauvignon Blanc",
+    "stock": 8,
+    "price": 19,
+    "CategoryId": 2
+  },
+  {
+    "name": "Quinta Da Lixa Flores Vinho Verde Rose",
+    "stock": 7,
+    "price": 8,
+    "CategoryId": 3
+  },
+  {
+    "name": "Molino Della Suga Rosso Di Montalcino",
+    "stock": 6,
+    "price": 19,
+    "CategoryId": 1
+  }
+]
